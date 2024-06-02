@@ -1,0 +1,31 @@
+{
+  "name": "aula3ppiadssemi",
+  "version": "1.0.0",
+  "description": "WEB APP HTTP POST e Validação do dados do formulário html",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoFernandoSilvaGoncalves/Aula3PPIADSSemi.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "validação"
+  ],
+  "author": "Renato Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoFernandoSilvaGoncalves/Aula3PPIADSSemi/issues"
+  },
+  "homepage": "https://github.com/RenatoFernandoSilvaGoncalves/Aula3PPIADSSemi#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
